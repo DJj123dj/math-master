@@ -1,0 +1,28 @@
+{
+  "name": "math-master",
+  "version": "1.0.0",
+  "description": "A simple discord calculator bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJj123dj/math-master.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "math",
+    "calculator"
+  ],
+  "author": "DJdj Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJj123dj/math-master/issues"
+  },
+  "homepage": "https://github.com/DJj123dj/math-master#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mathjs": "^12.1.0"
+  }
+}
